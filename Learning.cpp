@@ -1,7 +1,5 @@
 #include <iostream>
-
-int getInteger();
-
+#include "input.h"
 int main()
 {
 	int x{ getInteger() };
